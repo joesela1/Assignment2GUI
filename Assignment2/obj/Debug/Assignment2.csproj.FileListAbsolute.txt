@@ -1,0 +1,11 @@
+F:\SchoolForMasters\MS539\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+F:\SchoolForMasters\MS539\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+F:\SchoolForMasters\MS539\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+F:\SchoolForMasters\MS539\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+F:\SchoolForMasters\MS539\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+F:\SchoolForMasters\MS539\Assignment2\Assignment2\obj\Debug\Assignment2.Form2.resources
+F:\SchoolForMasters\MS539\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+F:\SchoolForMasters\MS539\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+F:\SchoolForMasters\MS539\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+F:\SchoolForMasters\MS539\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+F:\SchoolForMasters\MS539\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
